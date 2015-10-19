@@ -1,3 +1,10 @@
+#This to-do-list that has 2 users, 4 lists and many many todos
+#No method has been added to allow the addition of users and lists, 
+#but there are methods to list, add, toggle and delete the to-do-list.
+#when you enter input into ARGV, please put it in the following order: 
+#[user id]+ " " + [list_id]+ " " + [command] + " " + [task]
+
+
 # ActiveRecord TODOs
 
 ## Before You Get Started
